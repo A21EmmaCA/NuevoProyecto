@@ -53,7 +53,8 @@ Enlaces vinculados:
 
 Esto é un exemplo dun programa realizado en Bash:
 
-```bash
+```
+bash
 #!/bin/bash 
 ls -la
 ´´´
