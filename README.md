@@ -51,16 +51,6 @@ Enlaces vinculados:
 
 -----------------------------------------
 
-Esto é un exemplo dun programa realizado en Bash:
-
-```
-bash
-#!/bin/bash 
-ls -la
-´´´
-
------------------------------------------
-
 Mención:
 
 @EmmaCA nombre de usuario
@@ -76,3 +66,13 @@ Cita:
 Gif:
 
 ![alt text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+-----------------------------------------
+
+Esto é un exemplo dun programa realizado en Bash:
+
+```bash
+#!/bin/bash 
+ls -la
+´´´
+
